@@ -77,14 +77,14 @@ header {
     padding-top: 4px;
 }
 .navbar-nav li a {
-  color: #fff;
+  color: #010101;
   font-size: 16px;
   font-weight: 600;
   padding: 20px;
   transition: all 0.3s ease 0s;
 }
 .nav > li > a:focus, .nav > li > a:hover, .nav > .active > a {
-  background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+  background: rgba(202, 157, 60, 0) none repeat scroll 0 0;
   opacity: 0.6;
 }
 .navbar-nav li a.download-btn {

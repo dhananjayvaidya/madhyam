@@ -18,6 +18,7 @@
 @media (min-width: 992px) and (max-width: 1200px) {
 	.awesome-feature-details p {
 	  padding: 0px 10px;
+	  
 	}
 	.single-service h2 {
 	  font-size: 18px;
@@ -112,8 +113,8 @@
 	  margin-left: 15px;
 	}
     .navbar {
-		background: rgba(0, 0, 0, 0) -webkit-linear-gradient(left, #ff5f6d 0%, #ffb270 100%) repeat scroll 0 0;
-		background: rgba(0, 0, 0, 0) linear-gradient(to right, #ff5f6d 0%, #ffb270 100%) repeat scroll 0 0;
+		background: rgba(0, 0, 0, 0) -webkit-linear-gradient(left, #ec7d23 0%, #ec7d23 100%) repeat scroll 0 0;
+		background: rgba(0, 0, 0, 0) linear-gradient(to right, #ec7d23 0%, #ec7d23 100%) repeat scroll 0 0;
 		box-shadow: 0 0 20px -10px #000;
 	}
     .navbar-toggle .icon-bar {
@@ -122,7 +123,7 @@
         width: 25px;
     }
 	.navbar-brand {
-	  padding: 15px 0;
+	  padding: 1px 0;
 	}
 	.navbar-fixed-top .navbar-brand {
 	  padding: 15px 0;
@@ -195,6 +196,7 @@
 	}
 	.team-area {
 	  padding-bottom: 95px;
+	  margin-right: -11px;
 	}
 	.team-single {
 	  margin-bottom: 30px;
