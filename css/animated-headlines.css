@@ -1278,7 +1278,8 @@ body {
 	line-height: 1;
 }
 ol, ul {
-	list-style: none;
+  list-style: none;
+  margin-bottom: -85px;
 }
 blockquote, q {
 	quotes: none;
